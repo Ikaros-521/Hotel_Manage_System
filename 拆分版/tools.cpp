@@ -1,6 +1,6 @@
 #include "tools.h"
 #include <string.h>
-#include <getch.h>
+#include "getch.h"
 #include <stdbool.h>
 
 void clear_stdin(void)
